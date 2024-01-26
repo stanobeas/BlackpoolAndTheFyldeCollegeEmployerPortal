@@ -1,14 +1,13 @@
 body{
   background-color: rgb(248, 255, 145);
   font-family: 'Comic Sans MS';
-}
-@font-face{
-  font-family: 'Comic Sans MS';
   src: url("comic-sans-ms/comici.ttf");
 }
 
+
 ul {
-  font-family: cursive;
+  font-family: 'Comic Sans MS';
+  src: url("comic-sans-ms/comici.ttf");
   list-style-type:none;
   padding: 0;
   width: 100%;
